@@ -1,3 +1,3 @@
 # Feitiços Espaciais
 
-1. [Jantar Antropocênico](/00)
+1. [Jantar Antropocênico](/space-witchcraft/00)
