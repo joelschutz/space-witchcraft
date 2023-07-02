@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Norma de Construção de Lugares ou 'Entorno da pedra havia um caminho”]'"
+permalink: /01
+---
 # Norma de Construção de Lugares ou “Entorno da pedra havia um caminho”
 
 - Identificar espaços limiares que sejam aversos a presença simbolica de cultura
