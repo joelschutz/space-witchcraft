@@ -12,7 +12,7 @@ permalink: /01
     - “Onde as formigas verdes dormem”
     - “O lugar onde fizemos nossas juras de amor eterno”
     
-    ## Argumento
+## Argumento
     
 
 Performance-ritual com a premissa de transformas não-lugares em lugares a partir da incorporação de significados a espaços propositalmente desprovidos de tal.
@@ -38,32 +38,31 @@ A escolha dos locais de performance buscam sem intencionais, evidenciando uma pe
     - A intenção aqui não é torturar o espectador-participante, mas causar um desconforto. Exemplos seriam: uma longa caminhada pelo pântano, sentar no acostamento de uma estrada movimentada, tropeçar e se equilibrar nas pedras soltas de uma pilha de escombros.
     - Caos p.21
 - Monumentos - Como forma de marcar no tempo e espaço a memória de eventos passados as civilizações criavam monumentos para fazer tal procedimento de forma material. Entendemos o monumento como algo que transforma o espaço e cria rastros historiográficos daquela memória
-    - 
     
-    ## Cenário
-    
-    Escolha um espaço não haja uma presença de pessoas e de preferência de difícil acesso. Os eventos não devem ser vistos por outras pessoas que não participem da performance, assim busque por locais mais reclusos.
-    
-    A ideia dessa performance é se apropriar do local mesmo frente a intenção de mantê-lo um nao-lugar, assim não é só permitido mas aconselhável invadir espaços abandonados. O crime aqui é exemplar e busca ser elemento caótico de transformação do espaço.
-    
-    Busque relacionar espaço e narrativa, caso parta do ritual, busque um espaço que a valorize. Caso comece pela escolha do espaço, use seus elementos matérias como inspiração.
-    
-    ## Roteiro
-    
-    1. Ler “Comunicado 3: o tema haymarket” Caos p.47
-    2. Realizar ritual de intimidade
-        1. Busque na performance uma expressão que valorize essa dimensão íntima, deixe os participantes envergonhados, excitados ou culpados de tal forma que amemoria de tal sentimento nauqele espaço e em público marque de forma indelével. Tente fazer dessa uma história tão bizarra que não pode deixar de contar, ao mesmo tempo que é tão embaraçosa que os participantes escolham guardar segredo até a morte.
-        2. A performance pode ser algo que aproxime os presentes ou que os tornem cúmplices de alguma.
-    3. Erguer monumento
-        1. Busque construir um monumento a partir da interação dos participantes com o espaço e/ou o ritual.
-        2. Monumentos tem o objetivo de serem duradouros e informarem sobre o evento ocorrido. Evite expressões imateriais ou de fácil deterioração pois estes se perdem com o tempo
-    4. Leve algo do novo lugar consigo
-        1. Pode ser algo imaterial a lembrança ou trauma criada durante o ritual anterior.
-        2. Pode ser algum objeto do espaço, mas deve ser algo incriminador, sujo ou feio. A apropriação desse objeto deve ser uma sensação desconfortável.
-    5. De um nome para esse novo lugar
-        1. Essa escolha deve ser feita no momento do encerramento da cerimônia e nunca antes. A apropriação é algo que deve se dar na relação entre pessoa e espaço e esse nome reflete isso
-        2. Evite homenagens a coisas e pessoas alheias ao momento em si. Lembre que tal lugar existe apenas para aqueles que participam do ritual e esse nome deve refletir isso.
-    6. Guarde segredo 
-        1. Se for possível, guarde segredo do próprio fato de que essa performance ocorreu, mas a cima de tudo, guarde segredo sobre seus eventos e significados
-        2. Não crie registros capazes de informar outras pessoas sobre o que ocorreu durante a cerimônia
-        3. Evite discutir sua experiência com out
+## Cenário
+
+Escolha um espaço não haja uma presença de pessoas e de preferência de difícil acesso. Os eventos não devem ser vistos por outras pessoas que não participem da performance, assim busque por locais mais reclusos.
+
+A ideia dessa performance é se apropriar do local mesmo frente a intenção de mantê-lo um nao-lugar, assim não é só permitido mas aconselhável invadir espaços abandonados. O crime aqui é exemplar e busca ser elemento caótico de transformação do espaço.
+
+Busque relacionar espaço e narrativa, caso parta do ritual, busque um espaço que a valorize. Caso comece pela escolha do espaço, use seus elementos matérias como inspiração.
+
+## Roteiro
+
+1. Ler “Comunicado 3: o tema haymarket” Caos p.47
+2. Realizar ritual de intimidade
+    1. Busque na performance uma expressão que valorize essa dimensão íntima, deixe os participantes envergonhados, excitados ou culpados de tal forma que amemoria de tal sentimento nauqele espaço e em público marque de forma indelével. Tente fazer dessa uma história tão bizarra que não pode deixar de contar, ao mesmo tempo que é tão embaraçosa que os participantes escolham guardar segredo até a morte.
+    2. A performance pode ser algo que aproxime os presentes ou que os tornem cúmplices de alguma.
+3. Erguer monumento
+    1. Busque construir um monumento a partir da interação dos participantes com o espaço e/ou o ritual.
+    2. Monumentos tem o objetivo de serem duradouros e informarem sobre o evento ocorrido. Evite expressões imateriais ou de fácil deterioração pois estes se perdem com o tempo
+4. Leve algo do novo lugar consigo
+    1. Pode ser algo imaterial a lembrança ou trauma criada durante o ritual anterior.
+    2. Pode ser algum objeto do espaço, mas deve ser algo incriminador, sujo ou feio. A apropriação desse objeto deve ser uma sensação desconfortável.
+5. De um nome para esse novo lugar
+    1. Essa escolha deve ser feita no momento do encerramento da cerimônia e nunca antes. A apropriação é algo que deve se dar na relação entre pessoa e espaço e esse nome reflete isso
+    2. Evite homenagens a coisas e pessoas alheias ao momento em si. Lembre que tal lugar existe apenas para aqueles que participam do ritual e esse nome deve refletir isso.
+6. Guarde segredo 
+    1. Se for possível, guarde segredo do próprio fato de que essa performance ocorreu, mas a cima de tudo, guarde segredo sobre seus eventos e significados
+    2. Não crie registros capazes de informar outras pessoas sobre o que ocorreu durante a cerimônia
+    3. Evite discutir sua experiência com out
