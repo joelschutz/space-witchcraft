@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "space-witchcraft"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  bookup-html+dark:
+        toc: true
+        toc-depth: 3
+
+permalinks:
+  performances: /:slug/
+
