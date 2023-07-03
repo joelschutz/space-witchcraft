@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "Jantar antropocênico"
-permalink: /00
----
-# Jantar antropocênico
 
-## Argumento
+editor: 
+    render-on-save: true
+---
+# Argumento
 
 A performance-ritual busca convidar o espectador/participante a refletir sobre os limites arbitrários entre natureza e cultura através do ato de comer. 
 
@@ -15,7 +15,7 @@ A forma ritualística da performance busca convidar a o espectador/participante 
 
 Incorpora a ideia de *ambiente* pela sua interpretação asséptica das ciências naturais, um espaço arbitrariamente delimitado de características homogêneas e bem definidas. A partir disso o *meio-ambiente* como meio de propagação do ambiente, onde se materializam e interagem diferentes ambientes.
 
-## Elementos
+# Elementos
 
 - Milho de pipoca - representa a natureza sendo uma coisa ‘natural’ que depende de uma coisa ‘cultural’(fogo) para ser consumido
 - Miçangas de plástico amarelas - representa a cultura sendo uma coisa ‘cultural’(artificial) que é impossível de ser digerido pelo nosso sistema digestivo humano.
@@ -25,7 +25,7 @@ Incorpora a ideia de *ambiente* pela sua interpretação asséptica das ciência
     - Jargão cientifico vazio - o uso de termos científicos que não tentam transmitir ideia alguma tenta remeter ao espectador/participantes a autoridade dessa forma de conhecimento assim como sua obsessão com o controle dos ambientes, variáveis e processos.
     - Limpeza Biológica e Espiritual - o uso em paralelo de coisas como máscaras, panos e spray(remetendo a limpeza de ambientes laboratoriais, hospitalares, etc) com coisas como sal, cristais e fumaça(remetendo a limpeza espiritual de indivíduos e espaços).
 
-## Cenário
+# Cenário
 
 Uma sala. Cortinas fechadas e luzes apagadas, luz de velas se possível.
 
@@ -43,7 +43,7 @@ Musicas de percussão em gongos de pedra e outros instrumentos musicais ‘natur
 
 Possivelmente incorporar arranjos, esculturas e ilustrações propostas pelos outros estudantes.
 
-## Roteiro
+# Roteiro
 
 1. Limpeza da sala pelos voluntários
     1. Ambos os voluntários usam mascaras cirúrgicas e um colar(ou teara) de fibras vegetais(flores, galhos, cipo, juta , algo do gênero)

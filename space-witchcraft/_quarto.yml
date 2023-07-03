@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: Feitiços Espaciais
+  reader-mode: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - about.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+
+permalinks:
+  performances: /:slug/
+

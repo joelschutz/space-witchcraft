@@ -1,0 +1,11 @@
+---
+title: Feitiços Espaciais
+---
+Uma coleção de performances criadas para refletir conceitos de espaço e se comunicar com os tempo.
+
+## Performances
+1. [Jantar Antropocênico](/performances/jantar-antropocênico.html)
+2. [Norma de Construção de Lugares ou “Entorno da pedra havia um caminho”](/performances/norma-de-construcao-de-lugares.html)
+
+## Material de Suporte
+1. [*Caos* Hakim Bey](/assets/pdf/BEY-Hakim-(2003)-Caos-terrorismo-poetico-e-outros-crimes-exemplares.pdf)
