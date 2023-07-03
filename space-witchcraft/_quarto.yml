@@ -2,17 +2,21 @@ project:
   type: website
 
 website:
-  title: "space-witchcraft"
+  title: Feitiços Espaciais
+  reader-mode: true
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Inicio
       - about.qmd
 
 format:
-  bookup-html+dark:
-        toc: true
-        toc-depth: 3
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
 
 permalinks:
   performances: /:slug/

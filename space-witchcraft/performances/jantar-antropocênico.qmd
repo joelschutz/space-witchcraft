@@ -2,10 +2,6 @@
 layout: default
 title: "Jantar antropocênico"
 
-about:
-  image: ../assets/img/Chaos_Monster_and_Sun_God.png
-  template: trestles
-
 editor: 
     render-on-save: true
 ---

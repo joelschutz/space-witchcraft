@@ -1,8 +1,7 @@
 ---
-title: "space-witchcraft"
-listing: default
+title: Feitiços Espaciais
 ---
-# Feitiços Espaciais
+Uma coleção de performances criadas para refletir conceitos de espaço e se comunicar com os tempo.
 
 ## Performances
 1. [Jantar Antropocênico](/performances/jantar-antropocênico.html)
