@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Saca a Marca do Pisante"
+
+about:
+  template: marquee
+editor: 
+    render-on-save: true
+---
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.49.09.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.56.55.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.48.40.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.51.13.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.49.43.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.51.52.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.52.26.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.55.19.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.54.51.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.50.35.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-07 at 08.53.17.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-11 at 08.58.20.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-11 at 08.58.21.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-10 at 19.31.44.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-10 at 19.34.06.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-11 at 08.37.21.jpeg)
+![](../assets/img/landscapes/WhatsApp Image 2023-07-11 at 08.37.47.jpeg)

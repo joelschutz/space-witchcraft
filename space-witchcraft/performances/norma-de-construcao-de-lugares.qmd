@@ -10,10 +10,10 @@ about:
 ---
 # Objetivos
 
-- Identificar espaços limiares que sejam aversos a presença simbolica de cultura
-- Construir reitual simbolico e coletivo capaz de inspirar dos participantes uma intimidade ou identificação com o momento proposto
-- Deixar no espaço algum tipo de marca ou simbolo físico da realização do ritual e de seu significado
-- Nomear de forma monumental o recem criado lugar com nome que pode ou não remeter ao ritual proposto
+- Identificar espaços limiares que sejam aversos a presença simbólica de cultura
+- Construir ritual simbólico e coletivo capaz de inspirar nos participantes uma intimidade ou identificação com o momento proposto
+- Deixar no espaço algum tipo de marca ou símbolo físico da realização do ritual e de seu significado
+- Nomear de forma monumental o recém criado lugar com nome que possa ou não remeter ao ritual proposto
     - “Onde as formigas verdes dormem”
     - “O lugar onde fizemos nossas juras de amor eterno”
     
@@ -22,43 +22,40 @@ about:
 
 Performance-ritual com a premissa de transformas não-lugares em lugares a partir da incorporação de significados a espaços propositalmente desprovidos de tal.
 
-Incorpora o conceito de terrorismo poético de Hakim Bey como procedimento de transformação e emula sua preocupação com o sensível em negação só estético.
+Incorpora o conceito de terrorismo poético de Hakim Bey como procedimento de transformação e emula sua preocupação com o sensível em negação só estético. Embora Hakim Bey caracterize o terrorismo poético como uma expressão criminosa de arte, o que parece ser central na sua proposta é a dimensão sensível da expressão artística. O choque e o *Caos* são elementos que afetam o público de forma negativa, ou melhor dizendo anti-estética, compreende por isso uma crítica a arte como condutora dos prazeres para uma expressão visceral da experiência humana, do seu mais genuíno e tabu.
 
-Embora Hakim Bey caracterize o terrorismo poético como uma expressa criminosa de arte, o que parece ser central na sua proposta é a dimensão sensível da expressão artística. O choque e o caos são expressões que afetam o público de forma negativa ou melhor dizendo anti-eatetica, compreenda por isso uma crítica a arte como condutora dos prazeres para uma expressão visseral da experiência humana, tô seu mais genuíno e tabu.
-
-Essa performance busca ser apropriada e reproduzida pelos espectador-participante, assim não há uma definição fixa do cenário, apenas diretrizes que informam sobre a escolha do local de performance.
-
-A escolha dos locais de performance buscam sem intencionais, evidenciando uma percepção do espectador-participante sobre o espaço a sua volta. A materialidade desses locais é sua razão primeira, assim o difícil acesso ou outras formas de desconforto são entendidas como vantagens para está performance. Inspirado pelo conceito de *Caos*, esse espaço será pensado como um lugar em potencial e sua apropriação como um desafio 
+Essa performance busca ser apropriada e reproduzida pelos espectador-participante, assim não há uma definição fixa do cenário, apenas diretrizes que informam sobre a escolha do local de performance. A escolha dos locais de performance buscam ser intencionais, evidenciando uma percepção do espectador-participante sobre o espaço a sua volta. A materialidade desses locais é sua razão primeira, assim o difícil acesso ou outras formas de desconforto são entendidas como vantagens para está performance. Inspirado pelo conceito de *Caos*, esse espaço será pensado como um lugar em potencial e sua apropriação como um desafio.
 
 # Elementos
 
-- Não-Lugares intencionais - espaços de intensional nao-pertencimento.
+- Não-Lugares intencionais - espaços de intensional não-pertencimento.
     - Exemplos de tais são: escombros, casas abandonadas, dutos de drenagem, plantações de soja, estacionamentos, etc. Lugares sem história ou que essa já tenha sido há muito esquecida
-    - Não utilize espaços de exclusão! Espaços negligenciados pelo poder público como favelas e ocupações não devem ser escolhidos pois entendemos que tal escolha reproduz a marginalização promovida pela cultura hegemônica. Isso não exclui porém que utilize esse ritual para fundar uma favela ou ocupação, que é em parte inspiração dessa performance.
-- Caos - Entendido como aquilo que precede o mundo e as civilizações, o *Caos* é entendido ao mesmo tempo como solo fértil e sopa primordial de onde/aonde surge o mundo.
+    - Não utilize espaços de exclusão! Espaços negligenciados pelo poder público como favelas e ocupações não devem ser escolhidos pois entende que tal escolha reproduz a marginalização promovida pela cultura hegemônica. Isso não exclui porém que utilize esse ritual para fundar uma favela ou ocupação, o que é em parte inspiração dessa performance.
+- *Caos* - Entendido como aquilo que precede o mundo e as civilizações, o *Caos* é entendido ao mesmo tempo como solo fértil e sopa primordial de onde/aonde surge o mundo.
     - A dominação do *Caos* é entendida aqui como apropriação traumática e intencional do espaço, mas não entendemos isso como um evento negativo por si só, mas sim pelo seu aspecto de desconforto e *struggle*
-    - #texto de Hakim Bey sobre tiamat Caos p.27
-    - [Tiamat](https://youtu.be/rydJix8oWCc)
-- Desconforto e memória - Embora o trauma seja entendido no nosso mundo contemporâneo como um evento negativo, aqui busca pensar o trauma como evento marcado por forte carga emocional que imprime uma momoria duradoura e inconsciente.
-    - Tal interpretação vem de uma aproximação de Freud e Hakim Bey, entendendo o trauma como algo anti-eatetica e natural da experiência humana.
+    - [Mitos do Caos](../assets/pdf/BEY-Hakim-(2003)-Caos-terrorismo-poetico-e-outros-crimes-exemplares.pdf#page=14)
+    - [Tiamat](https://youtu.be/RG6XbNKViIQ)
+- Desconforto e memória - Embora o trauma seja entendido no nosso mundo contemporâneo como um evento negativo, aqui busca pensar o trauma como evento marcado por forte carga emocional que imprime uma memória duradoura e inconsciente.
+    - Tal interpretação vem de uma aproximação de Freud e Hakim Bey, entendendo o trauma como algo anti-estética e natural da experiência humana.
     - A intenção aqui não é torturar o espectador-participante, mas causar um desconforto. Exemplos seriam: uma longa caminhada pelo pântano, sentar no acostamento de uma estrada movimentada, tropeçar e se equilibrar nas pedras soltas de uma pilha de escombros.
-    - Caos p.21
-- Monumentos - Como forma de marcar no tempo e espaço a memória de eventos passados as civilizações criavam monumentos para fazer tal procedimento de forma material. Entendemos o monumento como algo que transforma o espaço e cria rastros historiográficos daquela memória
+    - Pense também em desconforto como a realização de alguma tarefa ou procedimento vergonhoso ou mal visto pela sociedade. Como por exemplo: Vandalizar um muro, enterrar restos de animais, carregar pedras de um lugar para outro, carregar uma pessoa nas postas por um trajeto específico.
+    - [Arte-Sabotagem (AS)](../assets/pdf/BEY-Hakim-(2003)-Caos-terrorismo-poetico-e-outros-crimes-exemplares.pdf#page=11)
+- Monumentos - Como forma de marcar no tempo e espaço a memória de eventos passados as civilizações criavam monumentos para fazer tal procedimento de forma material. Entende o monumento como algo que transforma o espaço e cria rastros historiográficos daquela memória. É importante que esse monumento dure no espaço e que não seja indetectável uma vez terminada a performance, mais importante é a sua capacidade de impactar o espaço e a paisagem. Exemplos de bons monumentos são: placas de metal ou pedra, marcações em cimento ou concreto, pregos em uma árvore, obras de saneamento.
     
 # Cenário
 
 Escolha um espaço não haja uma presença de pessoas e de preferência de difícil acesso. Os eventos não devem ser vistos por outras pessoas que não participem da performance, assim busque por locais mais reclusos.
 
-A ideia dessa performance é se apropriar do local mesmo frente a intenção de mantê-lo um nao-lugar, assim não é só permitido mas aconselhável invadir espaços abandonados. O crime aqui é exemplar e busca ser elemento caótico de transformação do espaço.
+A ideia dessa performance é se apropriar do local mesmo frente a intenção de mantê-lo um não-lugar, assim não é só permitido mas aconselhável invadir espaços abandonados. O crime aqui é exemplar e busca ser elemento caótico de transformação do espaço.
 
 Busque relacionar espaço e narrativa, caso parta do ritual, busque um espaço que a valorize. Caso comece pela escolha do espaço, use seus elementos matérias como inspiração.
 
 # Roteiro
 
-1. Ler “Comunicado 3: o tema haymarket” Caos p.47
+1. Ler [“Comunicado 3: o tema haymarket”](../assets/pdf/BEY-Hakim-(2003)-Caos-terrorismo-poetico-e-outros-crimes-exemplares.pdf#page=26)
 2. Realizar ritual de intimidade
-    a. Busque na performance uma expressão que valorize essa dimensão íntima, deixe os participantes envergonhados, excitados ou culpados de tal forma que amemoria de tal sentimento nauqele espaço e em público marque de forma indelével. Tente fazer dessa uma história tão bizarra que não pode deixar de contar, ao mesmo tempo que é tão embaraçosa que os participantes escolham guardar segredo até a morte.
-    b. A performance pode ser algo que aproxime os presentes ou que os tornem cúmplices de alguma.
+    a. Busque na performance uma expressão que valorize essa dimensão íntima, deixe os participantes envergonhados, excitados ou culpados de tal forma que a memoria de tal sentimento naquele espaço e em público marque de forma indelével. Tente fazer dessa uma história tão bizarra que não pode deixar de contar, ao mesmo tempo que é tão embaraçosa que os participantes escolham guardar segredo até a morte.
+    b. A performance pode ser algo que aproxime os presentes ou que os tornem cúmplices de alguma forma.
 3. Erguer monumento
     a. Busque construir um monumento a partir da interação dos participantes com o espaço e/ou o ritual.
     b. Monumentos tem o objetivo de serem duradouros e informarem sobre o evento ocorrido. Evite expressões imateriais ou de fácil deterioração pois estes se perdem com o tempo
@@ -71,4 +68,4 @@ Busque relacionar espaço e narrativa, caso parta do ritual, busque um espaço q
 6. Guarde segredo 
     a. Se for possível, guarde segredo do próprio fato de que essa performance ocorreu, mas a cima de tudo, guarde segredo sobre seus eventos e significados
     b. Não crie registros capazes de informar outras pessoas sobre o que ocorreu durante a cerimônia
-    c. Evite discutir sua experiência com out
+    c. Evite discutir sua experiência com outras pessoas que não foram participantes
