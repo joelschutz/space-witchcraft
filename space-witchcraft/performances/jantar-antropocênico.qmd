@@ -1,7 +1,10 @@
 ---
 layout: default
 title: "Jantar antropocênico"
+image: ../assets/img/nazar-1200040822124530.webp
 
+about:
+  template: marquee
 editor: 
     render-on-save: true
 ---
