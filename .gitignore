@@ -1,1 +1,4 @@
-space-witchcraft/_publish.yml
+*/.quarto/
+*/_extensions/
+*/_site/
+*/.vscode/
