@@ -4,8 +4,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     pandoc \
     pandoc-citeproc \
     curl \
-    gdebi-core \
-    && rm -rf /var/lib/apt/lists/*
+    gdebi-core 
 
 RUN install.r \
     shiny \
