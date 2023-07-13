@@ -3,4 +3,4 @@ image:
 
 vscode:
     extensions:
-        quarto.quarto
+        - quarto.quarto
