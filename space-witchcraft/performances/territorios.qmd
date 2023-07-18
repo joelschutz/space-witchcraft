@@ -1,11 +1,14 @@
 ---
 layout: default
-title: "Rascunho - Territorios"
+title: "\"Nunca vi bandido se aposentar\""
 permalink: /04
----
-# Territorios
-"Nunca vi bandido se aposentar"
 
+image: ../assets/img/1-7.jpg
+
+about:
+  template: marquee
+
+---
 ['Narcopentecostalismo': a religião na briga por territórios no Rio](https://youtu.be/fopdlEetJfo)
 
 [https://youtu.be/2yrzvCAUmSY](https://youtu.be/2yrzvCAUmSY)
@@ -23,12 +26,6 @@ permalink: /04
 [Igreja Universal](https://youtu.be/wDjg01OC55s)
 
 [Pastor Junior Pode](https://youtu.be/fcd0W6ImYpU)
-
-[Glimpse of Us - Joji](https://youtu.be/NgsWGfUlwJI)
-
-[Element - Kendrik Lamar](https://youtu.be/glaG64Ao7sM)
-
-[BLOOD. - Kendrick Lamar](https://www.vagalume.com.br/kendrick-lamar/blood.html)
 
 [Vala Clandestina de Perus](https://youtu.be/yKBc7S4tSfU)
 
@@ -57,3 +54,15 @@ permalink: /04
 [Nazareth Cerqueira](https://youtu.be/YjVyJ0ZDhEE)
 
 [Jogo do Bicho](https://youtu.be/axe6V7UzxO0)
+
+## E como isso afeta o Grêmio
+[Meno K - Camisa do Grêmio](https://youtu.be/SU6KgbCEKL0)
+[Meno K - Camisa do Flamengo](https://youtu.be/oqkau20gIlA)
+[O Rappa - Na Palma da Mão](https://youtu.be/h0LUFb8BVVc)
+
+[Glimpse of Us - Joji](https://youtu.be/NgsWGfUlwJI)
+
+[Element - Kendrik Lamar](https://youtu.be/glaG64Ao7sM)
+
+[BLOOD. - Kendrick Lamar](https://www.vagalume.com.br/kendrick-lamar/blood.html)
+[Paralamas do Sucesso - Alagados](https://youtu.be/MTOyw7SjhiQ)
