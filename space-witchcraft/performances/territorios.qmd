@@ -7,11 +7,26 @@ image: ../assets/img/1-7.jpg
 
 about:
   template: marquee
-
 ---
-['Narcopentecostalismo': a religião na briga por territórios no Rio](https://youtu.be/fopdlEetJfo)
+## Objetivos
 
-[https://youtu.be/2yrzvCAUmSY](https://youtu.be/2yrzvCAUmSY)
+- Convidar o espectador/participante a explorar uma parte da história do crime na cidade do Rio de Janeiro
+- Propor que o espectador/participante se aproprie dos materiais compilados aqui na elaboração de um video documentário a respeito do tema
+- Experienciar o conflito apresentado como estrangeiro mediado pela visão e discurso da mídia jornalistica
+
+## Argumento
+
+As dinâmicas territoriais nas comunidades pobres do Rio de Janeiro são percebidas pela população alheia a esses espaços principalmente por meio dos meios jornalísticos. Entende que tal recorte causa distorções na percepção do publico e aqui acirramos isso apresentando uma coletânea de artigos desestruturada, a intensão é causar confusão e forçar o espectador/participante a construir sua própria narrativa.
+
+A escolha das temáticas é intensional, aqui seremos vagos sobre quais para não enviesar a análise do espectador/participante. Religiosidade, Poder Paralelo, legitimidade e soberania são os principais temas que buscamos levantar na coletânea. Buscamos fomentar essa discussão observando os seus efeitos na sociedade, assim como as relações entre elas, de forma a perceber a materialidade desses conceitos e as diferentes formas como isso se manifestam.
+
+O crime é muitas vezes visto como um assunto dos jornais e não da história, mas entendemos que não é possível explorar esse tema de forma crítica sem observar esse aspecto. Falando em Rio de Janeiro, é perceptível uma relação intima entre policia e criminalidade, seja na sua promoção quanto na sua coerção. Apresentar uma parte desse histórico tem o objetivo de complexificar essa percepção de como o crime se desenvolve nos limites dos territórios urbanos mas seus efeitos afetam a centralidade desses espaços também.
+
+## Conteúdos
+
+### Matérias
+
+['Narcopentecostalismo': a religião na briga por territórios no Rio](https://youtu.be/fopdlEetJfo)
 
 [Justiça revoga prisão de Mc Poze](https://youtu.be/nyn2bTreG8s)
 
@@ -26,6 +41,8 @@ about:
 [Igreja Universal](https://youtu.be/wDjg01OC55s)
 
 [Pastor Junior Pode](https://youtu.be/fcd0W6ImYpU)
+
+### História
 
 [Vala Clandestina de Perus](https://youtu.be/yKBc7S4tSfU)
 
@@ -55,14 +72,26 @@ about:
 
 [Jogo do Bicho](https://youtu.be/axe6V7UzxO0)
 
-## E como isso afeta o Grêmio
-[Meno K - Camisa do Grêmio](https://youtu.be/SU6KgbCEKL0)
-[Meno K - Camisa do Flamengo](https://youtu.be/oqkau20gIlA)
-[O Rappa - Na Palma da Mão](https://youtu.be/h0LUFb8BVVc)
+[Peixão do TCP](https://youtu.be/9wdn9kelhV8)
 
-[Glimpse of Us - Joji](https://youtu.be/NgsWGfUlwJI)
+### Musicas
+
+[O Rappa - Na Palma da Mão](https://youtu.be/h0LUFb8BVVc)
 
 [Element - Kendrik Lamar](https://youtu.be/glaG64Ao7sM)
 
 [BLOOD. - Kendrick Lamar](https://www.vagalume.com.br/kendrick-lamar/blood.html)
+
 [Paralamas do Sucesso - Alagados](https://youtu.be/MTOyw7SjhiQ)
+
+[MC Bin Laden - Bololo Haha](https://youtu.be/dwEm-rU5sAE)
+
+[MC Poze - Na CDD só tem bandido faixa preta](https://youtu.be/i2im8qL-mAI)
+
+[MC Poze - Passou na Televisão](https://youtu.be/2yrzvCAUmSY)
+
+## E como isso afeta o Grêmio?
+
+[Meno K - Camisa do Grêmio](https://youtu.be/SU6KgbCEKL0)
+
+[Meno K - Camisa do Flamengo](https://youtu.be/oqkau20gIlA)
