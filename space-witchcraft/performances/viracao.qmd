@@ -1,0 +1,42 @@
+---
+layout: default
+title: "\"Uma brisa ligeira\""
+permalink: /06
+
+about:
+  template: marquee
+---
+# [EM ANDAMENTO]
+## Proposta
+
+Elaborar video *lofi remix* inspirado no **Rio Grande do Sul** e nas obras **Viração**(Kleiton e Kledir), **O Tempo e o Vento**(Rede Globo) e **A Casa das Sete Mulheres**(Rede Globo)
+
+## Inspiração
+
+[cantando eu mando a tristeza embora](https://youtu.be/Jrv2edpq_rM)
+
+## Referêmcias
+
+### [Viração - Kleiton e Kledir](https://youtu.be/mFWFCpPDDVs?si=bdhxbCEPGBYvhmpJ)
+
+### Casa das Sete Mulheres
+
+https://youtu.be/Apvk68s9vRY?si=HvcPKuIoe74Vb553
+
+https://youtu.be/s21n5-rgv40?si=oLE39-evnuLDEG5V
+
+https://youtu.be/9TvX11SYGd4?si=6UEDliTLfoqN7VWb
+
+### O Tempo e o Vento
+
+https://youtu.be/K_z1uhHdkgE?si=JJ2j3_ljYS6kiOa4
+
+https://youtu.be/jn1A3OZ5R44?si=6yLnkLfk_0qCdw9P
+
+https://youtu.be/SrMsWLnZKtI?si=0qcYmNhnJtHZMPkz
+
+https://youtu.be/ebUBEWOzBLs?si=BRpRy85YZ-Um_kEB
+
+https://youtu.be/b8zSpifYTB8?si=tm_vrlrsKvSrk8v1
+
+https://youtu.be/Dp4k4LmzxfQ?si=SNrN50FR0i4mEef1

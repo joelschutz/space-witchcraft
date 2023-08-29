@@ -1,0 +1,60 @@
+---
+layout: default
+title: "Serra Pelada(Temporario)"
+permalink: /05
+
+image: ../assets/img/1-7.jpg
+
+about:
+  template: marquee
+
+author: "Joel Schutz"
+lang: pt-br
+format:
+    revealjs:
+        footer: "[Voltar](../)"
+        embed-resources: true
+        # theme: dark
+        # toc: true
+        # number-sections: true
+        scrollable: true
+        # toc-depth: 1
+        # smaller: true
+---
+# [EM ANDAMENTO]
+
+## Slide 1
+
+{{< video https://youtu.be/TmPwCh2ikKg width="100%" height="85%" >}}
+
+## Slide 2
+
+[Globo Repórter - Aviação de garimpo na década de 80.](https://youtu.be/oV9-SEAO02Q)
+
+[Os pilotos da Amazônia: a vida de quem voa para o garimpo](https://youtu.be/IA-Rk_hdl4M)
+{{< video https://youtu.be/IA-Rk_hdl4M width=25% height=25%>}}
+
+[Na terra dos garimpos, a esperança de uma vida melhor ajuda a enfrentar o trabalho pesado](https://youtu.be/urHT9o4TL6c)
+{{< video https://youtu.be/urHT9o4TL6c width=25% height=25%>}}
+
+## Slide 3
+
+[Conheça o idoso que até hoje vive à procura de ouro em Serra Pelada](https://youtu.be/-vWJ4xGPDBM)
+{{< video https://youtu.be/-vWJ4xGPDBM width=25% height=25%>}}
+
+[Milhares de garimpeiros vão em busca de ametista no interior da Bahia](https://youtu.be/ZnWdi6RJLZk)
+{{< video https://youtu.be/ZnWdi6RJLZk width=25% height=25%>}}
+
+[Garimpeiros mostram detalhes de como extraem o ouro da terra](https://youtu.be/2jd2kOjGoNU)
+{{< video https://youtu.be/2jd2kOjGoNU width=25% height=25%>}}
+
+[Às margens da Transamazônica, disputas por terras têm desfechos trágicos](https://youtu.be/75PgXH6QatM)
+{{< video https://youtu.be/75PgXH6QatM width=25% height=25%>}}
+
+## Slide 4
+
+['Kamikaze da selva', ex-piloto sobreviveu a 11 acidentes aéreos na Amazônia](https://youtu.be/2lpkRu0UKUU)
+
+[Ouro de Sangue: para onde vai o ouro ilegal garimpado na Amazônia?](https://youtu.be/CX2Jc4Rsyyw)
+
+[APRENDA COMO ENCONTRAR OURO DE ALUVIÃO](https://youtu.be/Z2FPMJBNxAA)
